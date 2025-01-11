@@ -1,7 +1,7 @@
 # Data Analysis from random rata
 
 # Project Overview
-The main goal is create an exploration and Machine Learning model to predict label.
+The main goal is to create an exploration and Machine Learning model to predict a label (if we lose a customer).
 
 ## Exploratory Data Analysis
 Follow the notebook : `notebook/DataAnalysis.ipynb` section Exploratory data analysis
