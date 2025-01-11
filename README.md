@@ -2,6 +2,8 @@
 
 # Project Overview
 The main goal is to create an exploration and Machine Learning model to predict a label (if we lose a customer).
+This was a technical Test.
+Finals results were upload in a AWS EC2 machine with an exposed endpoint in order to call the developed Flask API
 
 ## Exploratory Data Analysis
 Follow the notebook : `notebook/DataAnalysis.ipynb` section Exploratory data analysis
